@@ -3,7 +3,7 @@
             <tr>
                 <td class="align-center">
                     <a href="{{ config('app.url') }}" style="display: inline-block;">
-                        <img src="{{ asset('images/pblogo.png') }}" alt="{{ config('app.name') }}">
+                        <img src="{{ asset('public/images/pblogo.png') }}" alt="{{ config('app.name') }}">
                     </a>
                 </td>
             </tr>
